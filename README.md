@@ -1,5 +1,9 @@
 # 10157_Assessment-4
 
-This read me file contains my R Project which includes my R Markdown file. 
+The GitHUb repository holds:
 
-The data opens up the raw data used for this analysis 
+a folder (data) containing all the necessary raw data files
+the necessary RStudio files 
+the necessary RStudio RMarkdown file 
+the final html report
+
